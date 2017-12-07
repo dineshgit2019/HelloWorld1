@@ -1,0 +1,35 @@
+!SESSION 2017-12-07 16:27:56.983 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\ccntenv\workspace\git_hello -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2017-12-07 16:28:04.599
+!MESSAGE System property http.proxyHost is not set but should be genproxy.amdocs.com.
+
+!ENTRY org.eclipse.core.net 1 0 2017-12-07 16:28:04.607
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-12-07 16:28:04.611
+!MESSAGE System property https.proxyHost is not set but should be genproxy.amdocs.com.
+
+!ENTRY org.eclipse.core.net 1 0 2017-12-07 16:28:04.619
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2017-12-07 16:28:04.629
+!MESSAGE System property https.proxyHost is not set but should be genproxy.amdocs.com.
+
+!ENTRY org.eclipse.core.net 1 0 2017-12-07 16:28:04.639
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-12-07 16:28:18.110
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dineshak'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.oomph.setup.ui 1 0 2017-12-07 16:28:28.551
+!MESSAGE Setup tasks were performed during startup updating 30 preferences. See 'C:\eclipse-java-neon-3-win32-x86_64\eclipse\configuration\org.eclipse.oomph.setup\setup.log' for details
